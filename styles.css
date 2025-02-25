@@ -1,0 +1,19 @@
+body, html {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: url('bgimg.png') no-repeat center center fixed;
+    background-size: cover;
+    filter: blur(5px);
+}
+
+.content {
+    position: absolute;
+    color: white;
+    font-size: 3em;
+    font-family: Arial, sans-serif;
+    text-shadow: 2px 2px 4px #000000;
+}
