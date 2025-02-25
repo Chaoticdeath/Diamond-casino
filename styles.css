@@ -23,9 +23,9 @@ body, html {
     align-items: center;
     height: 100%;
     width: 100%;
-    color: white;
+    color: black; /* Texte en noir */
     font-size: 5em; /* Taille de police augmentée pour un texte plus grand */
     font-family: Arial, sans-serif;
-    text-shadow: 2px 2px 4px #000000;
+    text-shadow: none; /* Suppression de l'ombre du texte */
     z-index: 1; /* Assure que le texte est au-dessus de l'arrière-plan */
 }
