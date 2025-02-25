@@ -26,5 +26,5 @@ body, html {
     font-size: 5em; /* Taille de police augmentée pour un texte plus grand */
     font-family: Arial, sans-serif;
     text-shadow: none; /* Suppression de l'ombre du texte */
-    z-index: 10; /* Assure que le texte est au-dessus de l'arrière-plan */
+    z-index: 2; /* Assure que le texte est au-dessus de l'arrière-plan */
 }
